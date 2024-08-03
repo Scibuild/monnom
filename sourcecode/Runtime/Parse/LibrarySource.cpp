@@ -18,7 +18,7 @@
 #include "../Library/IEnumeratorInterface.h"
 #include "../Common/CharStream.h"
 #include "../Parse/BytecodeReader.h"
-#include "pugixml/pugixml.hpp"
+#include "../pugixml/pugixml.hpp"
 #include <fstream>
 #include <iostream>
 #include "../Parse/Manifest.h"

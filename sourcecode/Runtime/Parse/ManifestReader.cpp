@@ -1,5 +1,5 @@
 #include "../Parse/ManifestReader.h"
-#include "pugixml/pugixml.hpp"
+#include "../pugixml/pugixml.hpp"
 #include "../Parse/VersionNumber.h"
 
 using namespace pugi;

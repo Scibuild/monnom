@@ -1,6 +1,6 @@
 #pragma once
 #include "../Common/CharStream.h"
-#include "pugixml/pugixml.hpp"
+#include "../pugixml/pugixml.hpp"
 #include "../Parse/Manifest.h"
 #include <iostream>
 

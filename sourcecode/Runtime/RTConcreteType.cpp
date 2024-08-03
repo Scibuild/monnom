@@ -1,4 +1,4 @@
-#include "../RTConcreteType.h"
+#include "RTConcreteType.h"
 
 namespace Nom
 {
